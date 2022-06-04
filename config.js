@@ -1,18 +1,18 @@
 // 1. Chỉnh sửa các dòng chữ theo mục đích của bạn
 const CONFIG = {
-    introTitle: '🖐🖐🖐 Hee loo ! 🖐🖐🖐',
+    introTitle: 'Hế Lu EM',
     introDesc: `Anh có điều này muốn hỏi Em, Em nhớ phải trả lời thật lòng nha`,
-    btnIntro: 'OK',
-    title: 'Anh biết Em thích Anh phải không phải không ? 😙',
-    desc: 'Em không trả lời hoặc thoát ra, tức là Em thích Anh đó nha :> ',
-    btnYes: 'Có, em thật sự thích anh 💖💖💖',
-    btnNo: '💔 Anh mơ à ! 💔 ',
-    question:'Nói cho Anh biết đi vì sao Em thích anh 😊😊',
+    btnIntro: 'Oki lun',
+    title: 'Em thực sự yêu anh đúng hong nè',
+    desc: 'Hãy cho anh biết điều đó nhá ',
+    btnYes: 'Em yêu anh ',
+    btnNo: 'I love you so much',
+    question:'Lý do em chọn anh và sẵn sàng đi với anh mặc dù anh theo như anh cảm nhận là em chưa sẵn sàng lắm',
     reasonPlaceholder: 'Lý do',
-    btnReply: 'Gởi ! 💌💌',
-    reply: 'Tại vì anh đẹp trai đó Ahiiiii 😊😊',
-    mess: 'Anh biết mà, Anh cũng thích em lắm 🥰. Love you 300.000 😘😘',
-    messDesc: '💬💬 Nhắn tin cho Anh nha. 💬💬',
-    btnAccept: 'Ok lun 💖',
-    messLink: 'https://m.me/PhungQuocDinh'
+    btnReply: 'Oki nhó',
+    reply: 'Tại vì anh đẹp trai vcl :)))',
+    mess: 'Anh biết mà và đơn giản anh muốn người đi cùng với anh là em đó Diệp - Cho anh xin phép được là một phần trong cuộc sống của em nhá',
+    messDesc: 'Còn chờ zì nữa hãy nói chuyện với anh nè',
+    btnAccept: 'Oki luông',
+    messLink: 'https://www.facebook.com/profile.php?id=100024931565257'
 }
